@@ -1,0 +1,25 @@
+{
+  "name": "3dance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voskanyan069/3Dance.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/voskanyan069/3Dance/issues"
+  },
+  "homepage": "https://github.com/voskanyan069/3Dance#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "package.json": "^2.0.1",
+    "three": "^0.137.5"
+  }
+}
